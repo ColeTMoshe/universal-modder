@@ -13,7 +13,8 @@ legal advice. When a game's EULA or mod policy matters, read it (search "<publis
   - official modding surfaces (Workshop, creative/map editors, official mod kits);
   - an official offline mode that ships without the anti-cheat. Elden Ring launched offline through
     `ModEngine2`/`me3` with EAC disabled is the community norm, with seamless co-op as its own separate
-    thing.
+    thing;
+  - if the user requests an offline mode of the game.
 - **Never:**
   - disable or bypass anti-cheat;
   - spoof hardware IDs;
